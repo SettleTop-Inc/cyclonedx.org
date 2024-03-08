@@ -558,3 +558,8 @@
   websiteUrl: https://www.oligo.security/
   categories:
     - vendor
+- name: SettleTop
+  logo: settletop.png
+  websiteUrl: https://www.settletop.com/
+  categories:
+    - vendor
